@@ -1,8 +1,7 @@
 # TEST_JUNK
 
-| Predicted     | _silence_     | down   | go  | left   | no  | off   | on  | right  | stop   | two   | up  | yes |
+| Actual/Predicted     | _silence_     | down   | go  | left   | no  | off   | on  | right  | stop   | two   | up  | yes |
 | ------------- |:-------------:| ------:| ---:| ------:| ---:| -----:| ----:| -------:| -------:| ------:| ----:|-----:|
-| Actual |
 _silence_ | 322 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 down | 0 | 240 | 6 | 0 | 7 | 0 | 1 | 0 | 0 | 4 | 0 | 0
 go | 5 | 3 | 223 | 0 | 2 | 1 | 1 | 0 | 0 | 15 | 2 | 0
